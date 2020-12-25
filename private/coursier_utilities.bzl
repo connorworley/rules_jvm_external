@@ -25,6 +25,7 @@ SUPPORTED_PACKAGING_TYPES = [
     "hk2-jar",
     "maven-plugin",
     "scala-jar",
+    "zip",
 ]
 
 def strip_packaging_and_classifier(coord):
